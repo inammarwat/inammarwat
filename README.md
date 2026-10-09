@@ -81,3 +81,6 @@ J. Shah, S. Kiran, M. Hasnain, A. Sajjad, **I. U. Khan**, A. Hamza, and A. A. Kh
 - [LinkedIn](https://www.linkedin.com/in/khan-inam-ullah/)
 - [ORCID](https://orcid.org/0009-0005-8906-0791)
 - Email: iminamgull@gmail.com
+
+I am currently interested in PhD opportunities related to trustworthy LLMs,
+Agentic AI, RAG, NLP, and evidence-grounded AI systems.
